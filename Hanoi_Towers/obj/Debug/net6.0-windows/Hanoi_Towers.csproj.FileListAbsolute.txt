@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\bin\Debug\net6.0-windows\Hanoi_Towers.exe
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\bin\Debug\net6.0-windows\Hanoi_Towers.deps.json
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\bin\Debug\net6.0-windows\Hanoi_Towers.runtimeconfig.json
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\bin\Debug\net6.0-windows\Hanoi_Towers.dll
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\bin\Debug\net6.0-windows\Hanoi_Towers.pdb
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.Form1.resources
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.dll
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\refint\Hanoi_Towers.dll
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.pdb
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\Hanoi_Towers.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\final\PilaLIFO\Hanoi_Towers\obj\Debug\net6.0-windows\ref\Hanoi_Towers.dll
